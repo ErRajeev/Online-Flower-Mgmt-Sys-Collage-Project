@@ -1,0 +1,6 @@
+.error-cont{
+    height: 100vh;
+    padding: 5rem 5rem;
+    color: red;
+    background: linear-gradient(to left top, #e9d7c7, white);
+}

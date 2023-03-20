@@ -1,0 +1,24 @@
+.user-iconn,
+.sell-iconn,
+.cart-iconn{
+    padding-right: 1rem;
+    font-size:  1.5rem;
+    color: rgb(108, 108, 108);
+}
+.user-iconn:hover{
+    color: white;
+}
+.sell-iconn:hover{
+color: white;
+}
+.cart-iconn:hover{
+    color: white;
+}
+
+.nav_logo{
+    height: 2.3rem;
+    width: 6rem;
+}
+.product-types{
+    margin-top: 4rem;
+}

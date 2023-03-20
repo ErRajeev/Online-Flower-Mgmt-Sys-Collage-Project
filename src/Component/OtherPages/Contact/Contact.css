@@ -1,0 +1,41 @@
+.main-contact {
+    height: 89.5vh;
+    margin-top: 4.1rem;
+    padding: 25px;
+    background: linear-gradient(to left top, #efdfd2, rgb(255, 255, 255));
+  }
+
+  .contact-us {
+    color: rgb(211, 104, 28);
+    text-align: center;
+    font-size: 2.5rem;
+  }
+  .contact-details {
+    list-style: none;
+    padding: 02px;
+    text-align: center;
+  }
+  .contact-input {
+    text-align: center;
+    font-size: 18px;
+    background-color: rgb(255, 248, 248);
+    width: 300px;
+    padding: 12px;
+    margin: 3px 0px;
+    border-radius: 10px;
+    border: 2px solid brown;
+  }
+  .contact-input:focus {
+    background-color: orange;
+    outline: none;
+  }
+  .contact-btns{
+    margin: 2rem 6.5rem;
+  }
+  .contact-submit-btn ,
+  .contact-reset-btn {
+    /* text-align: center; */
+    /* align-items: center; */
+    margin: 0rem 0.8rem;
+  }
+

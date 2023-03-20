@@ -1,0 +1,54 @@
+.pay-pic {
+    padding: 0rem 8rem 0rem 0rem;
+}
+
+.pay-pic img {
+    padding: 2rem 2rem 0rem 0rem;
+    width: 37%;
+}
+
+.pay-main {
+    /* height: 100vh; */
+    margin-top: 4.1rem;
+    padding: 25px;
+    background: linear-gradient(to left top, #efdfd2, rgb(255, 255, 255));
+}
+
+.pay-us {
+    color: rgb(211, 104, 28);
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.pay-details {
+    list-style: none;
+    padding: 02px;
+    text-align: center;
+}
+
+.pay-input {
+    text-align: center;
+    font-size: 18px;
+    background-color: rgb(255, 248, 248);
+    width: 400px;
+    padding: 12px;
+    margin: 3px 0px;
+    border-radius: 10px;
+    border: 2px solid brown;
+}
+
+.pay-input:focus {
+    background-color: orange;
+    outline: none;
+}
+
+.pay-btns {
+    margin: 2rem 6.5rem;
+}
+
+.pay-submit-btn,
+.pay-reset-btn {
+    /* text-align: center; */
+    /* align-items: center; */
+    margin: 0rem 0.8rem;
+}

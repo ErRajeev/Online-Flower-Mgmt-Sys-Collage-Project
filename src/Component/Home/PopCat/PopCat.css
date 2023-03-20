@@ -1,0 +1,39 @@
+.container-main {
+    background: linear-gradient(to left top, #e26473, #e2815a);
+    padding: 0.5rem;
+    /* align-items: center; */
+    color: white;
+}
+
+.pop-heading {
+    font-weight: 500;
+}
+
+.container-main hr {
+    border: 2px solid white;
+}
+
+.container-content {
+    text-align: center;
+}
+
+.container-imgg {
+    padding: 1rem;
+}
+
+.container-imgg img {
+    transition: all 0.7s;
+    height: 13rem;
+    width: 13rem;
+    border-radius: 150px;
+}
+
+.popcat-about {
+    font-size: 1.5rem;
+}
+
+.container-imgg img:hover {
+    transition: all .07s;
+    border: 5px solid rgb(255, 255, 255);
+    cursor: pointer;
+}

@@ -1,0 +1,38 @@
+
+.booxx {
+    position: relative;
+    margin-top: 4rem ;
+    width: 70vh;
+    height: 120vh;
+    background: #1c1c1c;
+    overflow: hidden;
+    box-shadow: 0 15px 25px rgba(0, 0, blue, 12.2);
+  }
+  
+  .booxx::before {
+    content: "";
+    z-index: 1;
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 70vh;
+    height: 120vh;
+    transform-origin: bottom right;
+    background: linear-gradient(0deg, red 0%, red 100%);
+    animation: animate 6s linear infinite;
+  }
+  
+  .booxx::after {
+    content: "";
+    z-index: 1;
+    position: absolute;
+    top: -50px;
+    left: -50%;
+    width: 70vh;
+    height: 120vh;
+    transform-origin: bottom right;
+    background: linear-gradient(0deg, #45f3ff 0%, #45f3ff 100%);
+    animation: animate 6s linear infinite;
+    animation-delay: -3s;
+  }
+  

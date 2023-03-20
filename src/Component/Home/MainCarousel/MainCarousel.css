@@ -1,0 +1,10 @@
+.car-block{
+    height: 70vh;
+    background: black;
+    object-fit: fill;
+    margin-top: 3.5rem;
+}
+.car-block img{
+    height: 100%;
+    width: 100%;
+}

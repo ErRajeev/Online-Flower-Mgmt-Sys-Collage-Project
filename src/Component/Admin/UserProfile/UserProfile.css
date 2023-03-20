@@ -1,0 +1,48 @@
+.user-profile {
+    background: linear-gradient(to left top, #e4cdb9, rgb(255, 255, 255));
+    height: 100vh;
+    padding: 5rem;
+}
+
+.user-container {
+    /* text-align: center; */
+    /* justify-content: center; */
+}
+
+.user-heading {
+    color: brown;
+}
+
+.user-detail-fild {
+    text-align: center;
+    font-size: 18px;
+    background-color: rgb(255, 248, 248);
+    width: 500px;
+    padding: 12px;
+    margin: 3px 0px;
+    /* border: 2px solid brown; */
+}
+.user_div{
+    /* background-color: red; */
+   align-items: center;
+   border: 2px solid black;
+   border-radius: 10px;
+   padding: 3rem;
+   word-wrap: break-word;
+}
+.user_div p{
+   color: red;
+}
+.user_div h1{
+    text-align: center;
+}
+.user_div span{
+    color: black;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.hrd{
+    color: blue;
+    /* font-weight: 1rem;
+    font-size: 5px; */
+}

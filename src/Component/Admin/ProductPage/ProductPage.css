@@ -1,0 +1,70 @@
+.Prod-Page-Main{
+    padding-top: 5rem;
+}
+
+.prod-img-cont{
+    width: 2000px;
+    margin-right: 20px;
+
+}
+
+.Prod-Page-cont img{
+    width: 100%;
+}
+
+.prod-data .prod-head{
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 45px;
+}
+
+.prod-mrp,.prod-saleprice{
+    font-size: 25px;
+}
+.prod-yoursave{
+    color: gray;
+    padding: 0px;
+    margin: 15px 0px;
+}
+.prod-details-head{
+    padding: 0px;
+    font-size: 30px;
+    margin: 0px;
+    color: rgb(172, 172, 48);
+    border-bottom: 2px solid rgb(172, 172, 48);
+    width: 110px;
+}
+
+.prod-description{
+    padding: 1rem 30rem 0rem 0rem;
+    font-size: 1.3rem;
+}
+.prod-details-head2{
+    padding: 3rem 0rem 0rem 0.5rem;
+    font-size: 30px;
+    margin: 0rem;
+    color: rgb(172, 172, 48);
+}
+
+.bye-cart{
+    margin-left: 0px;
+}
+.img-circle{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 60px;
+    background-color: white;
+}
+.img-circle img{
+    width: 30px;
+    border-radius: 20px;
+}
+.cod p{
+    font-size: 1.5rem;
+    font-weight: 600;
+    /* text-align: center; */
+    color: #ffbb00;
+}
